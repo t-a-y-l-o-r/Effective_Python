@@ -1,7 +1,7 @@
 '''
 Author: Taylor Cochran
 Book: Effective Python
-Ch1
+Ch2
 
 Goal:
   To learn why preferring exceptions to returning None is better

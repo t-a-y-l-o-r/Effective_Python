@@ -1,7 +1,7 @@
 '''
 Author: Taylor Cochran
 Book: Effective Python
-Ch1
+Ch2
 
 Goal:
   To learn about closures and variable scope

@@ -1,7 +1,7 @@
 '''
 Author: Taylor Cochran
 Book: Effective Python
-Ch1
+Ch2
 
 Goal:
   To understand why returning generators is preferable

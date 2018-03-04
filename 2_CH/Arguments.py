@@ -1,7 +1,7 @@
 '''
 Author: Taylor Cochran
 Book: Effective Python
-Ch1
+Ch2
 
 Goal:
   To understand what it means to be "defenseive when iterating" over args
