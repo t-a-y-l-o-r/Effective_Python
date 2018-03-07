@@ -42,7 +42,6 @@ print(list(gen))
 # the following generator reads one line at a time
 # while yielding one word at a time
 # only keeping one line in memeory at any given moment
-
 def index_file(handle):
   offset = 0
   for line in handle:
