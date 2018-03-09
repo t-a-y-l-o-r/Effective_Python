@@ -151,6 +151,7 @@ class Gradebook(object):
     return self._students[name]
 
 
+# boxes within boxes yo
 book = Gradebook()
 albert = book.student("Albert")
 math = albert.subject("Math")
