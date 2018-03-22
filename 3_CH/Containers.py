@@ -24,7 +24,7 @@ class FrequencyList(list):
       counts[item] += 1
     return counts
 
-# this allows for you to inherit all of list's usefull methods
+# this allows for you to inherit all of list's useful methods
 # as well as allowing for the addition of custom behavior
 test = FrequencyList(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'a', 'b', 'c', 'a', 'd'])
 # print("Legnth is: ", len(test))
@@ -52,6 +52,7 @@ bar.__getitem__(0)
 
 class IndexNode(BinaryNode):
   def _search(self, count, index):
+    ''' this could be worked on, but isn't really the main point'''
     count = 0
     item = None
     dic = {}
