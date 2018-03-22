@@ -3,7 +3,7 @@ Author: Taylor Cochran
 Book: Effective Python
 Chapter 3: Classes and Inheritance
 
-Goal: Learn to inherit from collection.abs for Custom container types!
+Goal: Learn to inherit from collection.abc for Custom container types!
 
 
 Remeber:
